@@ -64,7 +64,7 @@ npm start
 ### Example cURL Request
 Once the server is running, you can make a request to the scraping API:
 ```bash
-curl -X GET "http://localhost:3000/api/product?storeId=178926468&dealId=21448123549" -H "Content-Type: application/json"
+curl -X GET "http://localhost:3000/api/shopee?storeId=178926468&dealId=21448123549" -H "Content-Type: application/json"
 ```
 
 ### Expected Output
