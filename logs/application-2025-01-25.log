@@ -1,0 +1,95 @@
+{"itemId":"21448123549","level":"info","message":"Crawler instance created","shopId":"178926468","timestamp":"2025-01-25 13:15:19"}
+{"itemId":"21448123549","level":"info","message":"Initializing crawler","proxy":"gate.smartproxy.com","shopId":"178926468","timestamp":"2025-01-25 13:15:19"}
+{"itemId":"21448123549","level":"info","message":"Crawler instance created","shopId":"178926468","timestamp":"2025-01-25 13:16:35"}
+{"itemId":"21448123549","level":"info","message":"Initializing crawler","proxy":"gate.smartproxy.com","shopId":"178926468","timestamp":"2025-01-25 13:16:35"}
+{"itemId":"21448123549","level":"info","message":"Crawler instance created","shopId":"178926468","timestamp":"2025-01-25 13:16:53"}
+{"itemId":"21448123549","level":"info","message":"Initializing crawler","proxy":"gate.smartproxy.com","shopId":"178926468","timestamp":"2025-01-25 13:16:53"}
+{"itemId":"21448123549","level":"info","message":"Crawler instance created","shopId":"178926468","timestamp":"2025-01-25 13:16:56"}
+{"itemId":"21448123549","level":"info","message":"Initializing crawler","proxy":"gate.smartproxy.com","shopId":"178926468","timestamp":"2025-01-25 13:16:56"}
+{"itemId":"21448123549","level":"info","message":"Fetching product data","shopId":"178926468","timestamp":"2025-01-25 13:18:05"}
+{"dataLength":13,"duration":217,"level":"info","message":"Product data fetched successfully","status":403,"timestamp":"2025-01-25 13:18:05"}
+{"dataLength":13,"level":"info","message":"Product data received","timestamp":"2025-01-25 13:18:05"}
+{"level":"info","message":"Session rotation required","timestamp":"2025-01-25 13:19:10"}
+{"itemId":"21448123549","level":"info","message":"Fetching product data","shopId":"178926468","timestamp":"2025-01-25 13:19:14"}
+{"dataLength":13,"duration":82,"level":"info","message":"Product data fetched successfully","status":403,"timestamp":"2025-01-25 13:19:14"}
+{"dataLength":13,"level":"info","message":"Product data received","timestamp":"2025-01-25 13:19:14"}
+{"itemId":"21448123549","level":"info","message":"Crawler instance created","shopId":"178926468","timestamp":"2025-01-25 13:37:14"}
+{"itemId":"21448123549","level":"info","message":"Initializing crawler","proxy":"gate.smartproxy.com","shopId":"178926468","timestamp":"2025-01-25 13:37:14"}
+{"itemId":"21448123549","level":"info","message":"Fetching product data","shopId":"178926468","timestamp":"2025-01-25 13:38:24"}
+{"dataLength":128,"duration":268,"level":"info","message":"Product data fetched successfully","status":200,"timestamp":"2025-01-25 13:38:24"}
+{"dataLength":128,"level":"info","message":"Product data received","timestamp":"2025-01-25 13:38:24"}
+{"itemId":"21448123549","level":"info","message":"Crawler instance created","shopId":"178926468","timestamp":"2025-01-25 13:39:28"}
+{"itemId":"21448123549","level":"info","message":"Initializing crawler","proxy":"gate.smartproxy.com","shopId":"178926468","timestamp":"2025-01-25 13:39:28"}
+{"itemId":"21448123549","level":"info","message":"Fetching product data","shopId":"178926468","timestamp":"2025-01-25 13:40:37"}
+{"data":{"action_type":2,"error":90309999,"is_customized":false,"is_login":true,"tracking_id":"776df680fa-fd11-4df1-956b-45606ce09499"},"dataLength":127,"duration":179,"level":"info","message":"Product data fetched successfully","status":200,"timestamp":"2025-01-25 13:40:38"}
+{"dataLength":127,"level":"info","message":"Product data received","timestamp":"2025-01-25 13:40:38"}
+{"level":"info","message":"Session rotation required","timestamp":"2025-01-25 13:41:42"}
+{"itemId":"21448123549","level":"info","message":"Fetching product data","shopId":"178926468","timestamp":"2025-01-25 13:41:46"}
+{"data":{"action_type":2,"error":90309999,"is_customized":false,"is_login":true,"tracking_id":"6890603267e-98ee-42f4-8dba-2fd4a6e1a390"},"dataLength":128,"duration":101,"level":"info","message":"Product data fetched successfully","status":200,"timestamp":"2025-01-25 13:41:46"}
+{"dataLength":128,"level":"info","message":"Product data received","timestamp":"2025-01-25 13:41:46"}
+{"itemId":"21448123549","level":"info","message":"Fetching product data","shopId":"178926468","timestamp":"2025-01-25 13:42:47"}
+{"data":{"action_type":2,"error":90309999,"is_customized":false,"is_login":true,"tracking_id":"40709965e0-624a-4302-8028-baae6451922c"},"dataLength":127,"duration":123,"level":"info","message":"Product data fetched successfully","status":200,"timestamp":"2025-01-25 13:42:48"}
+{"dataLength":127,"level":"info","message":"Product data received","timestamp":"2025-01-25 13:42:48"}
+{"level":"info","message":"Session rotation required","timestamp":"2025-01-25 13:43:52"}
+{"itemId":"21448123549","level":"info","message":"Fetching product data","shopId":"178926468","timestamp":"2025-01-25 13:43:56"}
+{"data":{"action_type":2,"error":90309999,"is_customized":false,"is_login":true,"tracking_id":"888d08a3e72-590c-4053-b136-158f8594632a"},"dataLength":128,"duration":192,"level":"info","message":"Product data fetched successfully","status":200,"timestamp":"2025-01-25 13:43:56"}
+{"dataLength":128,"level":"info","message":"Product data received","timestamp":"2025-01-25 13:43:56"}
+{"itemId":"21448123549","level":"info","message":"Fetching product data","shopId":"178926468","timestamp":"2025-01-25 13:44:57"}
+{"data":{"action_type":2,"error":90309999,"is_customized":false,"is_login":true,"tracking_id":"74bb5fe20c-6fbb-465b-83c8-fbe9bdee2887"},"dataLength":127,"duration":134,"level":"info","message":"Product data fetched successfully","status":200,"timestamp":"2025-01-25 13:44:58"}
+{"dataLength":127,"level":"info","message":"Product data received","timestamp":"2025-01-25 13:44:58"}
+{"level":"info","message":"Session rotation required","timestamp":"2025-01-25 13:46:02"}
+{"itemId":"21448123549","level":"info","message":"Fetching product data","shopId":"178926468","timestamp":"2025-01-25 13:46:06"}
+{"data":{"action_type":2,"error":90309999,"is_customized":false,"is_login":true,"tracking_id":"841ff493041-a04b-4dce-9eaf-0d70cff0bf93"},"dataLength":128,"duration":99,"level":"info","message":"Product data fetched successfully","status":200,"timestamp":"2025-01-25 13:46:06"}
+{"dataLength":128,"level":"info","message":"Product data received","timestamp":"2025-01-25 13:46:06"}
+{"itemId":"21448123549","level":"info","message":"Fetching product data","shopId":"178926468","timestamp":"2025-01-25 13:47:07"}
+{"data":{"action_type":2,"error":90309999,"is_customized":false,"is_login":true,"tracking_id":"153f2ff9053-c444-4bcc-9827-0a81551d8ed4"},"dataLength":128,"duration":225,"level":"info","message":"Product data fetched successfully","status":200,"timestamp":"2025-01-25 13:47:08"}
+{"dataLength":128,"level":"info","message":"Product data received","timestamp":"2025-01-25 13:47:08"}
+{"level":"info","message":"Session rotation required","timestamp":"2025-01-25 13:48:12"}
+{"itemId":"21448123549","level":"info","message":"Fetching product data","shopId":"178926468","timestamp":"2025-01-25 13:48:16"}
+{"data":{"action_type":2,"error":90309999,"is_customized":false,"is_login":true,"tracking_id":"803bf0b2ea7-f77a-46a9-b721-3565af1602fe"},"dataLength":128,"duration":150,"level":"info","message":"Product data fetched successfully","status":200,"timestamp":"2025-01-25 13:48:16"}
+{"dataLength":128,"level":"info","message":"Product data received","timestamp":"2025-01-25 13:48:16"}
+{"itemId":"21448123549","level":"info","message":"Fetching product data","shopId":"178926468","timestamp":"2025-01-25 13:49:17"}
+{"data":{"action_type":2,"error":90309999,"is_customized":false,"is_login":true,"tracking_id":"11588cb830b-5abd-4781-b88b-e00c7494dbe5"},"dataLength":128,"duration":137,"level":"info","message":"Product data fetched successfully","status":200,"timestamp":"2025-01-25 13:49:18"}
+{"dataLength":128,"level":"info","message":"Product data received","timestamp":"2025-01-25 13:49:18"}
+{"level":"info","message":"Session rotation required","timestamp":"2025-01-25 13:50:22"}
+{"itemId":"21448123549","level":"info","message":"Fetching product data","shopId":"178926468","timestamp":"2025-01-25 13:50:26"}
+{"data":{"action_type":2,"error":90309999,"is_customized":false,"is_login":true,"tracking_id":"20173c5be35-b362-4886-be73-c24ca5c9dde2"},"dataLength":128,"duration":1366,"level":"info","message":"Product data fetched successfully","status":200,"timestamp":"2025-01-25 13:50:28"}
+{"dataLength":128,"level":"info","message":"Product data received","timestamp":"2025-01-25 13:50:28"}
+{"itemId":"21448123549","level":"info","message":"Fetching product data","shopId":"178926468","timestamp":"2025-01-25 13:51:27"}
+{"data":{"action_type":2,"error":90309999,"is_customized":false,"is_login":true,"tracking_id":"175692464da-6a62-4954-95c8-6d00e827b11a"},"dataLength":128,"duration":199,"level":"info","message":"Product data fetched successfully","status":200,"timestamp":"2025-01-25 13:51:28"}
+{"dataLength":128,"level":"info","message":"Product data received","timestamp":"2025-01-25 13:51:28"}
+{"level":"info","message":"Session rotation required","timestamp":"2025-01-25 13:52:32"}
+{"itemId":"21448123549","level":"info","message":"Fetching product data","shopId":"178926468","timestamp":"2025-01-25 13:52:36"}
+{"data":{"action_type":2,"error":90309999,"is_customized":false,"is_login":true,"tracking_id":"860423dd5fd-2511-443a-b7b1-1509df01e703"},"dataLength":128,"duration":182,"level":"info","message":"Product data fetched successfully","status":200,"timestamp":"2025-01-25 13:52:36"}
+{"dataLength":128,"level":"info","message":"Product data received","timestamp":"2025-01-25 13:52:36"}
+{"itemId":"21448123549","level":"info","message":"Fetching product data","shopId":"178926468","timestamp":"2025-01-25 13:53:37"}
+{"data":{"action_type":2,"error":90309999,"is_customized":false,"is_login":true,"tracking_id":"1246b838626-c57d-4661-8cf8-d8475c2ca7a7"},"dataLength":128,"duration":122,"level":"info","message":"Product data fetched successfully","status":200,"timestamp":"2025-01-25 13:53:38"}
+{"dataLength":128,"level":"info","message":"Product data received","timestamp":"2025-01-25 13:53:38"}
+{"level":"info","message":"Session rotation required","timestamp":"2025-01-25 13:54:43"}
+{"itemId":"21448123549","level":"info","message":"Fetching product data","shopId":"178926468","timestamp":"2025-01-25 13:54:46"}
+{"data":{"action_type":2,"error":90309999,"is_customized":false,"is_login":true,"tracking_id":"9912d745932-9df3-4d86-ace9-fcd6b962cf1f"},"dataLength":128,"duration":108,"level":"info","message":"Product data fetched successfully","status":200,"timestamp":"2025-01-25 13:54:46"}
+{"dataLength":128,"level":"info","message":"Product data received","timestamp":"2025-01-25 13:54:46"}
+{"itemId":"21448123549","level":"info","message":"Fetching product data","shopId":"178926468","timestamp":"2025-01-25 13:55:48"}
+{"data":{"action_type":2,"error":90309999,"is_customized":false,"is_login":true,"tracking_id":"16599f0f8ba-b618-4f96-ad0b-90f784398c4b"},"dataLength":128,"duration":147,"level":"info","message":"Product data fetched successfully","status":200,"timestamp":"2025-01-25 13:55:48"}
+{"dataLength":128,"level":"info","message":"Product data received","timestamp":"2025-01-25 13:55:48"}
+{"level":"info","message":"Session rotation required","timestamp":"2025-01-25 13:56:53"}
+{"itemId":"21448123549","level":"info","message":"Fetching product data","shopId":"178926468","timestamp":"2025-01-25 13:56:56"}
+{"data":{"action_type":2,"error":90309999,"is_customized":false,"is_login":true,"tracking_id":"907b859fe1f-e942-4747-885e-aa4cda2ded8e"},"dataLength":128,"duration":160,"level":"info","message":"Product data fetched successfully","status":200,"timestamp":"2025-01-25 13:56:56"}
+{"dataLength":128,"level":"info","message":"Product data received","timestamp":"2025-01-25 13:56:56"}
+{"itemId":"21448123549","level":"info","message":"Fetching product data","shopId":"178926468","timestamp":"2025-01-25 13:57:58"}
+{"data":{"action_type":2,"error":90309999,"is_customized":false,"is_login":true,"tracking_id":"143b026e6f0-c1fa-4b1b-9f62-f97a4e3543cc"},"dataLength":128,"duration":110,"level":"info","message":"Product data fetched successfully","status":200,"timestamp":"2025-01-25 13:57:58"}
+{"dataLength":128,"level":"info","message":"Product data received","timestamp":"2025-01-25 13:57:58"}
+{"level":"info","message":"Session rotation required","timestamp":"2025-01-25 13:59:03"}
+{"itemId":"21448123549","level":"info","message":"Fetching product data","shopId":"178926468","timestamp":"2025-01-25 13:59:06"}
+{"data":{"action_type":2,"error":90309999,"is_customized":false,"is_login":true,"tracking_id":"9281eb84b27-aab5-42b2-a7a5-502af60b3f5d"},"dataLength":128,"duration":212,"level":"info","message":"Product data fetched successfully","status":200,"timestamp":"2025-01-25 13:59:06"}
+{"dataLength":128,"level":"info","message":"Product data received","timestamp":"2025-01-25 13:59:06"}
+{"itemId":"21448123549","level":"info","message":"Fetching product data","shopId":"178926468","timestamp":"2025-01-25 14:00:08"}
+{"data":{"action_type":2,"error":90309999,"is_customized":false,"is_login":true,"tracking_id":"250ef263007-358d-44dd-84e5-bab8199d3702"},"dataLength":128,"duration":202,"level":"info","message":"Product data fetched successfully","status":200,"timestamp":"2025-01-25 14:00:08"}
+{"dataLength":128,"level":"info","message":"Product data received","timestamp":"2025-01-25 14:00:08"}
+{"level":"info","message":"Session rotation required","timestamp":"2025-01-25 14:01:13"}
+{"itemId":"21448123549","level":"info","message":"Fetching product data","shopId":"178926468","timestamp":"2025-01-25 14:01:16"}
+{"data":{"action_type":2,"error":90309999,"is_customized":false,"is_login":true,"tracking_id":"9402b58a766-f43d-4f80-9483-685bd741b809"},"dataLength":128,"duration":171,"level":"info","message":"Product data fetched successfully","status":200,"timestamp":"2025-01-25 14:01:16"}
+{"dataLength":128,"level":"info","message":"Product data received","timestamp":"2025-01-25 14:01:16"}
+{"itemId":"21448123549","level":"info","message":"Fetching product data","shopId":"178926468","timestamp":"2025-01-25 14:02:18"}
+{"data":{"action_type":2,"error":90309999,"is_customized":false,"is_login":true,"tracking_id":"37079fe53da-37ce-4027-ad9e-96a34e3e0a83"},"dataLength":128,"duration":317,"level":"info","message":"Product data fetched successfully","status":200,"timestamp":"2025-01-25 14:02:18"}
+{"dataLength":128,"level":"info","message":"Product data received","timestamp":"2025-01-25 14:02:18"}
